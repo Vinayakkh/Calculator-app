@@ -10,4 +10,4 @@ Welcome to the Calculator App repository! This app is developed using Java and f
 
 ## Installation
 
-You can easily install and use the Calculator App by Dowmnloading Calculator.apk file that is present on this repo root folder
+You can easily install and use the Calculator App by Downloading Calculator.apk file that is present in this repo's root folder
